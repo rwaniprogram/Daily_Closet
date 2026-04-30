@@ -7,26 +7,22 @@
 <img width="180" height="420" alt="스크린샷 2026-04-30 182108" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
   
 ## 📸 메인 화면
-<p align="center">
-  <img src="screenshots/mainrecommend.png" width="180" /></p>
+<img src="screenshots/mainrecommend.png" width="180" /></p>
   
 ## 📸 검색화면
-<p align="center">
-  <img src="screenshots/searchtab.png" width="180" /></p>
+<img src="screenshots/searchtab.png" width="180" /></p>
 
 ## 📸 지역별 검색결과 화면
-<p align="center">
-  <bold>🌍 글로벌 기온 검색 시뮬레이션</bold><br>
-  <img src="screenshots/searchafrica.png" width="100" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/searchlondon.png" width="100" />
-  <br>
-  <em>(좌: 아프리카 코디 추천 / 우: 런던 코디 추천)</em>
+<bold>🌍 글로벌 기온 검색 시뮬레이션</bold><br>
+<img src="screenshots/searchafrica.png" width="100" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="screenshots/searchlondon.png" width="100" />
+<br>
+<em>(좌: 아프리카 코디 추천 / 우: 런던 코디 추천)</em>
 </p>
 
 ## 📸 마이클로젯 탭 (내 옷 아카이브)
-<p align="center">
-  <img src="screenshots/mycloset.png" width="180" /></p>
+<img src="screenshots/mycloset.png" width="180" /></p>
 
 
 ---

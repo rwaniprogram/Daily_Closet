@@ -4,7 +4,7 @@
 ---
 
 ## 📸 실행 화면
-<img width="180" height="320" alt="스크린샷 2026-04-30 182108" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
+<img width="180" height="360" alt="스크린샷 2026-04-30 182108" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
   
 ## 📸 메인 화면
 <p align="center">

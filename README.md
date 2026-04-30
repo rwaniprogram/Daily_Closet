@@ -23,6 +23,7 @@
 
 ## 📸 실행 화면
 <img width="180" height="420" alt="스크린샷 2026-04-30 182108" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
+<img width="180" height="420" alt="스크린샷 2026-04-30 184005" src="https://github.com/user-attachments/assets/10b08eef-6f6a-4452-9021-6e9dc31921bd" />
   
 ## 📸 메인 화면
 <img src="screenshots/mainrecommend.png" width="180" /></p>

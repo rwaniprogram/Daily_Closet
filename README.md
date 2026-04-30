@@ -22,7 +22,6 @@
 ---
 
 ## 📸 실행 화면
-<p align="center">
   <img width="180" height="420" alt="아프리카 검색 결과" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
   &nbsp;&nbsp;&nbsp;&nbsp;<img width="180" height="420" alt="런던 검색 결과" src="https://github.com/user-attachments/assets/10b08eef-6f6a-4452-9021-6e9dc31921bd" />
 </p>

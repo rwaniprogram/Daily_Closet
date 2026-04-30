@@ -22,8 +22,7 @@
 ---
 
 ## 📸 실행 화면
-  <img width="180" height="420" alt="아프리카 검색 결과" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
-  &nbsp;&nbsp;&nbsp;&nbsp;<img width="180" height="420" alt="런던 검색 결과" src="https://github.com/user-attachments/assets/10b08eef-6f6a-4452-9021-6e9dc31921bd" />
+  <img width="180" height="420" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" /> &nbsp;&nbsp;&nbsp;&nbsp;<img width="180" height="420" src="https://github.com/user-attachments/assets/10b08eef-6f6a-4452-9021-6e9dc31921bd" />
 </p>
 <em>앱을 실행시키면 옷장문이 열리는 듯한 효과와 함께 메인 로고이미지가 떠오릅니다.</em>
 

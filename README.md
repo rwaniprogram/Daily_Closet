@@ -4,37 +4,38 @@
 ---
 
 ## 📸 실행 화면
-<p align="center">
-<img width="372" height="150" alt="스크린샷 2026-04-30 182108" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
+<img width="372" height="180" alt="스크린샷 2026-04-30 182108" src="https://github.com/user-attachments/assets/e944c590-6495-46f8-aaca-113c3339d7f4" />
   
 ## 📸 메인 화면
 <p align="center">
-  <img src="screenshots/mainrecommend.png" width="150" /></p>
+  <img src="screenshots/mainrecommend.png" width="180" /></p>
   
 ## 📸 검색화면
 <p align="center">
-  <img src="screenshots/searchtab.png" width="150" /></p>
+  <img src="screenshots/searchtab.png" width="180" /></p>
 
 ## 📸 지역별 검색결과 화면
 <p align="center">
   <bold>🌍 글로벌 기온 검색 시뮬레이션</bold><br>
-  <img src="screenshots/searchafrica.png" width="80" />
+  <img src="screenshots/searchafrica.png" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/searchlondon.png" width="80" />
+  <img src="screenshots/searchlondon.png" width="100" />
   <br>
   <em>(좌: 아프리카 코디 추천 / 우: 런던 코디 추천)</em>
 </p>
 
 ## 📸 마이클로젯 탭 (내 옷 아카이브)
 <p align="center">
-  <img src="screenshots/mycloset.png" width="150" /></p>
+  <img src="screenshots/mycloset.png" width="180" /></p>
 
 
 ---
 
 ## 📝 프로그램 개요
-**Daily Closet**은 실시간 기온 데이터를 기반으로 사용자가 원하는 지역 및 시간대별 날씨에 맞는 최적의 옷차림을 제안하고,
-사용자의 개인 의류를 아카이빙하여 맞춤형 코디까지 제공하는 **초개인화 날씨-패션 큐레이션 서비스**입니다. 
+**Daily Closet**은 실시간 기온 데이터를 기반으로
+사용자가 원하는 지역 및 시간대별 날씨에 맞는 최적의 옷차림을 제안하고,
+사용자의 개인 의류를 아카이빙하여 맞춤형 코디까지 제공하는
+**초개인화 날씨-패션 큐레이션 서비스**입니다. 
 
 매일 아침 "오늘 뭐 입지?"라는 고민을 해결하기 위해,
 단순한 날씨 정보 제공을 넘어 개인의 옷장을 기반으로 한 실용적인 코디 솔루션을 제공합니다.

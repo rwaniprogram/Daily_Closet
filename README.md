@@ -14,9 +14,9 @@
 
 ## 📸 지역별 검색결과 화면
 <bold>🌍 글로벌 기온 검색 시뮬레이션</bold><br>
-<img src="screenshots/searchafrica.png" width="100" />
+<img src="screenshots/searchafrica.png" width="180" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="screenshots/searchlondon.png" width="100" />
+<img src="screenshots/searchlondon.png" width="180" />
 <br>
 <em>(좌: 아프리카 코디 추천 / 우: 런던 코디 추천)</em>
 </p>
